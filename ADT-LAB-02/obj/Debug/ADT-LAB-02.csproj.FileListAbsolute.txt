@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-02\ADT-LAB-02\bin\Debug\ADT-LAB-02.exe.config
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-02\ADT-LAB-02\bin\Debug\ADT-LAB-02.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-02\ADT-LAB-02\bin\Debug\ADT-LAB-02.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-02\ADT-LAB-02\obj\Debug\ADT-LAB-02.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-02\ADT-LAB-02\obj\Debug\ADT-LAB-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-02\ADT-LAB-02\obj\Debug\ADT-LAB-02.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-02\ADT-LAB-02\obj\Debug\ADT-LAB-02.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-02\ADT-LAB-02\obj\Debug\ADT-LAB-02.pdb
